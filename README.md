@@ -7,8 +7,6 @@ It showcases my skills, projects, and provides an easy way to connect with me.
 
 ⚡ Fast & Responsive – Built with Vite + Tailwind for speed.
 
-🌙 Dark Mode – Toggle between light and dark themes.
-
 🎨 Modern UI – Smooth animations with Framer Motion.
 
 🛠️ Skills Section – Filterable skill categories with progress bars.
@@ -18,8 +16,6 @@ It showcases my skills, projects, and provides an easy way to connect with me.
 📞 Contact Form – Easy way to connect via email/social links.
 
 📑 Resume Section – Quick download option for my CV.
-
-✍️ Blog Section – (Optional) to share articles or updates.
 
 🛠️ Tech Stack
 
@@ -31,16 +27,14 @@ Animations: Framer Motion
 
 Icons: React Icons / Lucide Icons
 
-Deployment: Netlify / Vercel
+Deployment: Netlify 
 
-📸 Screenshots
-🏠 Home Page
 
 ⚙️ Installation & Setup
 
 Clone the repo:
 
-git clone https://github.com/YOUR-USERNAME/portfolio.git
+git clone https://github.com/Zaheer-Shaikh-07/Personal-Portfolio.git
 cd portfolio
 
 
@@ -54,29 +48,11 @@ Start development server:
 npm run dev
 
 
-Build for production:
-
-npm run build
-
-🌍 Deployment
-
-You can deploy this project for free on:
-
-Netlify
-
-Vercel
-
-👉 For Netlify Drag & Drop:
-
-Run npm run build.
-
-Upload the dist/ folder to Netlify.
-
 📬 Contact
 
-Portfolio Live: https://your-portfolio.netlify.app
+Portfolio Live: https://your-portfolio.netlify.app  //still in progress
 
-GitHub: @YOUR-USERNAME
+
 
 LinkedIn: Your Name
 
