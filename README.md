@@ -51,11 +51,6 @@ npm run dev
 📬 Contact
 
 Portfolio Live: https://your-portfolio.netlify.app  //still in progress
-
-
-
-LinkedIn: Your Name
-
-Twitter: @yourhandle
+or mail : Shaikhzaheer26750@gmail.com
 
 ✨ Thanks for visiting my portfolio!
