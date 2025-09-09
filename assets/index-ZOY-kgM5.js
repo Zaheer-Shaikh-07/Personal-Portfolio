@@ -127,4 +127,4 @@ Please change the parent <Route path="${V}"> to <Route path="${V==="/"?"*":`${V}
             
               from-indigo-900
               via--800
-              to-purple-500 font-Roboto`,children:[A.jsx(_3,{}),A.jsxs(Pb,{children:[A.jsx(wa,{path:"/",element:A.jsx(U7,{})}),A.jsx(wa,{path:"/project",element:A.jsx(V1,{})}),A.jsx(wa,{path:"/skills",element:A.jsx(fy,{})}),A.jsx(wa,{path:"/contact",element:A.jsx(Sy,{})}),A.jsx(wa,{path:"/resume",element:A.jsx(Ty,{})}),A.jsx(wa,{path:"/Certiciations",element:A.jsx(dy,{})})]})]})}_1.init();tb.createRoot(document.getElementById("root")).render(A.jsx(m3,{children:A.jsx(k7,{})}));
+              to-purple-500 font-Roboto`,children:[A.jsx(_3,{}),A.jsxs(Pb,{children:[A.jsx(wa,{path:"/",element:A.jsx(U7,{})}),A.jsx(wa,{path:"/project",element:A.jsx(V1,{})}),A.jsx(wa,{path:"/skills",element:A.jsx(fy,{})}),A.jsx(wa,{path:"/contact",element:A.jsx(Sy,{})}),A.jsx(wa,{path:"/resume",element:A.jsx(Ty,{})}),A.jsx(wa,{path:"/Certiciations",element:A.jsx(dy,{})})]})]})}_1.init();tb.createRoot(document.getElementById("root")).render(A.jsx(m3,{basename:"/Personal-Portfolio",children:A.jsx(k7,{})}));
